@@ -1,0 +1,20 @@
+p {
+  color: #a3bad4
+}
+
+h1 {
+  font-family:arial;
+  font-size:40px;
+  font-style:italic;
+  color: #c89c9c
+}
+
+body {
+  background-color: #f4e5d0;
+  font-size: 20px
+}
+
+.diferenciacion {
+  color: black;
+    font-size: 12px
+}
